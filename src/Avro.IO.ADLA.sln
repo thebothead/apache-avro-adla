@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avro.IO.ADLA", "Avro.IO.ADLA\Avro.IO.ADLA.csproj", "{1192D626-11F8-4E18-9E16-96B45E2BED52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avro.IO.ADLA.Tests", "Avro.IO.ADLA.Tests\Avro.IO.ADLA.Tests.csproj", "{B079C497-F4CB-4297-8C87-9F85A77213D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1192D626-11F8-4E18-9E16-96B45E2BED52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1192D626-11F8-4E18-9E16-96B45E2BED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1192D626-11F8-4E18-9E16-96B45E2BED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1192D626-11F8-4E18-9E16-96B45E2BED52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B079C497-F4CB-4297-8C87-9F85A77213D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B079C497-F4CB-4297-8C87-9F85A77213D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B079C497-F4CB-4297-8C87-9F85A77213D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B079C497-F4CB-4297-8C87-9F85A77213D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD823100-14D8-4537-AFD5-D376DBB046A9}
+	EndGlobalSection
+EndGlobal

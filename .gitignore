@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs
+/src/Avro.IO.ADLA/bin/Debug
+/src/Avro.IO.ADLA/obj/Debug
+/src/Avro.IO.ADLA.Tests/bin/Debug
+/src/Avro.IO.ADLA.Tests/obj/Debug
+/src/packages/xunit.runner.visualstudio.2.3.0
+/src/packages/xunit.extensibility.execution.2.1.0
+/src/packages/xunit.extensibility.core.2.1.0
+/src/packages/xunit.core.2.1.0
+/src/packages/xunit.assert.2.1.0
+/src/packages/xunit.abstractions.2.0.0
+/src/packages/xunit.2.1.0
+/src/packages/Xbehave.Core.2.0.1
+/src/packages/Xbehave.2.0.1
+/src/packages/StyleCop.Analyzers.1.0.0
+/src/packages/Stateless.4.0.0
+/src/packages/NSubstitute.1.9.1.0
+/src/packages/Newtonsoft.Json.3.5.8
+/src/packages/Microsoft.VSSDK.BuildTools.15.1.192
+/src/packages/Microsoft.Analytics.UnitTest.10.2.0
+/src/packages/log4net.1.2.10
+/src/packages/FluentAssertions.4.0.0
